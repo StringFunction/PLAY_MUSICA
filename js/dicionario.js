@@ -9,7 +9,7 @@ export  const musicas = [
         'id' : 2,
         'Nome_musica' : 'Vida É Desafio',
         'autor' : 'Racionais',
-        'local' : '../musica/A vida É Desafio - Nada Como Um Dia Após O Outro Dia (Chora Agora).mp3',
+        'local' : '../musica/AvidaÉDesafioNadaComoUmDiaApósOOutroDiaChoraAgora.mp3',
         'img' : '/img/racionais1.png'
     },
     {  
