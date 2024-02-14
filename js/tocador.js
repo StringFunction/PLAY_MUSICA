@@ -29,10 +29,10 @@ function tocar(){
     if (!flag){
     play.style.display = 'none'
     pause.style.display = 'flex'
-    // tocador.src = musicas[index]['local']
-    // nomeMusica.textContent = musicas[index]['Nome_musica']
-    // autor.textContent= musicas[index]['autor']
-    // img.src = musicas[index]['img']
+    tocador.src = musicas[index]['local']
+    nomeMusica.textContent = musicas[index]['Nome_musica']
+    autor.textContent= musicas[index]['autor']
+    img.src = musicas[index]['img']
     tocador.play()
     flag = true
     }
